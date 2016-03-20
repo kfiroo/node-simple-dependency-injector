@@ -3,7 +3,7 @@ Simple dependency injection for node modules
 
 ## Installation
 
-  npm install node-simple-dependency-injector --save
+      npm install node-simple-dependency-injector --save
 
 ## Usage
 
