@@ -1,25 +1,33 @@
 {
-    "name": "node-simple-dependency-injector",
-    "version": "1.0.3",
-    "keywords": ["node", "node.js", "di", "dependecy", "dependency injection", "node dependency injection", "node dependency injector"],
-    "description": "Simple dependency injector for node.js",
-    "main": "./lib/injector.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/kfiroo/node-simple-dependency-injector.git"
-    },
-    "author": {
-        "name": "Kfir Golan",
-        "email": "kfirgolan@gmail.com",
-        "url": "https://github.com/kfiroo"
-    },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/kfiroo/node-simple-dependency-injector/issues"
-    },
-    "homepage": "https://github.com/kfiroo/node-simple-dependency-injector#readme",
-    "readme": "https://github.com/kfiroo/node-simple-dependency-injector#readme"
+  "name": "node-simple-dependency-injector",
+  "version": "1.0.4",
+  "keywords": [
+    "node",
+    "node.js",
+    "di",
+    "dependecy",
+    "dependency injection",
+    "node dependency injection",
+    "node dependency injector"
+  ],
+  "description": "Simple dependency injector for node.js",
+  "main": "./lib/injector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfiroo/node-simple-dependency-injector.git"
+  },
+  "author": {
+    "name": "Kfir Golan",
+    "email": "kfirgolan@gmail.com",
+    "url": "https://github.com/kfiroo"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kfiroo/node-simple-dependency-injector/issues"
+  },
+  "homepage": "https://github.com/kfiroo/node-simple-dependency-injector#readme",
+  "readme": "https://github.com/kfiroo/node-simple-dependency-injector#readme"
 }
