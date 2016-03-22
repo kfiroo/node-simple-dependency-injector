@@ -28,6 +28,5 @@
   "bugs": {
     "url": "https://github.com/kfiroo/node-simple-dependency-injector/issues"
   },
-  "homepage": "https://github.com/kfiroo/node-simple-dependency-injector#readme",
-  "readme": "https://github.com/kfiroo/node-simple-dependency-injector#readme"
+  "homepage": "https://github.com/kfiroo/node-simple-dependency-injector#readme"
 }
